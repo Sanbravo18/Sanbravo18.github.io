@@ -1,0 +1,1 @@
+const daniel = 18;
